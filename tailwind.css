@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+.active{
+    @apply text-orange-300;
+}
+tr,table,td,th{
+    @apply border-2 border-gray-300;
+}
+tr:nth-child(odd){
+    @apply bg-gray-300;
+}
+.nav{
+    @apply bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 -left-full flex-col text-3xl h-screen absolute ;
+}
+@media(min-width:768px) {
+    .nav{
+        @apply flex-row bg-none static h-auto text-2xl ;
+    }
+    nav{
+        
+    }
+}
+
+@tailwind utilities;

@@ -1,0 +1,36 @@
+{
+    "tables":[
+        {
+            "id":1,
+            "universitet":"Azərbaycan Texniki Universitet",
+            "faculty":"Komputer Mühəndisliyi",
+            "title":"Html",
+            "subject":"Riyaziyyat",
+            "link":"https://www.youtube.com/watch?v=dQw4w9W"
+        },
+        {
+            "id":2,
+            "universitet":"Bakı Dövlət Universitet",
+            "faculty":"Elektrik Mühəndisliyi",
+            "title":"Css",
+            "subject":"Riyaziyyat",
+            "link":"https://www.youtube.com/watch?v=dQw4w9W"
+        },
+        {
+            "id":3,
+            "universitet":"Bakı Dövlət Universitet",
+            "faculty":"Komputer Mühəndisliyi",
+            "title":"JavaScript",
+            "subject":"Riyaziyyat",
+            "link":"https://www.youtube.com/watch?v=dQw4w9W"
+        },
+        {
+            "id":4,
+            "universitet":"Bakı Dövlət Universitet",
+            "faculty":"Elektrik Mühəndisliyi",
+            "title":"React",
+            "subject":"Riyaziyyat",
+            "link":"https://www.youtube.com/watch?v=dQw4w9W"
+        }
+    ]
+}
